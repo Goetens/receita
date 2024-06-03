@@ -124,7 +124,7 @@ td + td{
     font-weight: bold;
 }
 
-@media (max-width: 375px){
+@media (max-width: 678px){
     body{
         margin: 0;
         padding: 0;
